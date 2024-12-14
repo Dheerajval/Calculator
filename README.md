@@ -1,1 +1,1 @@
-# OIBSIB-Android-Development-Task3
+# Calculator
